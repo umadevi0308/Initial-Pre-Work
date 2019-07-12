@@ -1,0 +1,14 @@
+/*This lesson talks about Do While loop.
+While loop checks the condition before runs any code within the loop.
+ But Do while loop runs the code once before checking the condition.*/
+// Setup
+// Setup
+var myArray = [];
+var i = 10;
+
+// Only change code below this line.
+do {
+}while (i < 5) {
+  myArray.push(i);
+  i++;
+}
